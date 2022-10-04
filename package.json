@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Slovro",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,7 +9,6 @@
 		"start": "node server.js"
 	},
 	"repository": {
-		"author": "Slovro",
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
